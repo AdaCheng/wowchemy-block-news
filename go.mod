@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/adacheng/wowchemy-block-news
 
 go 1.19
